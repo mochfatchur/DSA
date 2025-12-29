@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+bin/
+build/
+dist/
+
+# Test
+*.jar
